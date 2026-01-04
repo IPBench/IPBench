@@ -67,7 +67,7 @@ sh eval-generation.sh
 In developing IPBench, all data are collected exclusively from open and publicly available sources. We strictly adhered to all relevant copyright and licensing regulations. Any data originating from websites or platforms that prohibit copying, redistribution, or automated crawling are explicitly excluded from use. Furthermore, we confirm that all data are used solely for academic and research purposes, and not for any commercial applications. We are committed to upholding responsible data usage and transparency in our research practices. Future updates of IPBench will continue to follow the same principles and remain fully open to academic scrutiny and community feedback.
 
 ## Contact
-Qiyao Wang: wangqiyao@mail.dlut.edu.cn
+Qiyao Wang: wangqiyao25@mails.ucas.ac.cn
 
 Shiwen Ni: sw.ni@siat.ac.cn
 
